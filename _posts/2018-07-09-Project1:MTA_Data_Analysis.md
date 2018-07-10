@@ -20,5 +20,3 @@ traffic for each station we had chosen to find the station with the highest amou
 highest volume station with the target demographic.
 
 This was just project 1, so I'm excited for the upcoming work I'll be doing!
-
-![_config.yml]({{ site.baseurl https://jbowyer93.github.io/}}/images/config.png)
